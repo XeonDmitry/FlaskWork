@@ -1,11 +1,11 @@
 # FlaskWork
 
-git clone https://github.com/XeonDmitry/FlaskWork.git
+ git clone https://github.com/XeonDmitry/FlaskWork.git
 
-cd FlaskWork
+ cd FlaskWork
+ 
+ docker-compose up 
 
-docker-compose up 
+# Запуск в фоновом режиме:
 
-#Запуск в фоновом режиме:
-
-docker-compose up -d
+ docker-compose up -d
